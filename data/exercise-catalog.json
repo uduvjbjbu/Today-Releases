@@ -1,0 +1,1439 @@
+{
+  "schema": "today-catalog-v1",
+  "source": "apps/today/app/src/main/java/app/today/workout/ExerciseLibrary.kt",
+  "builtInCount": 179,
+  "items": [
+    {
+      "id": "catalog_001",
+      "name": "랫풀다운",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_002",
+      "name": "어시스트 풀업",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_003",
+      "name": "시티드 로우 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_004",
+      "name": "체스트 서포티드 로우 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_005",
+      "name": "하이 로우 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_006",
+      "name": "로우 로우 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_007",
+      "name": "아이소레터럴 로우",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_008",
+      "name": "풀오버 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_009",
+      "name": "리버스 펙덱",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_010",
+      "name": "백 익스텐션 머신",
+      "muscle": "등",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_011",
+      "name": "와이드그립 랫풀다운",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_012",
+      "name": "언더그립 랫풀다운",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_013",
+      "name": "클로즈그립 랫풀다운",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_014",
+      "name": "스트레이트암 풀다운",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_015",
+      "name": "시티드 케이블 로우",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_016",
+      "name": "원암 케이블 로우",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_017",
+      "name": "케이블 풀오버",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_018",
+      "name": "페이스 풀",
+      "muscle": "등",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_019",
+      "name": "바벨 벤트오버 로우",
+      "muscle": "등",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_020",
+      "name": "펜들레이 로우",
+      "muscle": "등",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_021",
+      "name": "바벨 데드리프트",
+      "muscle": "등",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_022",
+      "name": "바벨 슈러그",
+      "muscle": "등",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_023",
+      "name": "랜드마인 로우",
+      "muscle": "등",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_024",
+      "name": "원암 덤벨 로우",
+      "muscle": "등",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_025",
+      "name": "체스트 서포티드 덤벨 로우",
+      "muscle": "등",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_026",
+      "name": "덤벨 풀오버",
+      "muscle": "등",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_027",
+      "name": "덤벨 슈러그",
+      "muscle": "등",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_028",
+      "name": "인클라인 덤벨 로우",
+      "muscle": "등",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_029",
+      "name": "풀업",
+      "muscle": "등",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_030",
+      "name": "친업",
+      "muscle": "등",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_031",
+      "name": "인버티드 로우",
+      "muscle": "등",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_032",
+      "name": "백 익스텐션",
+      "muscle": "등",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_033",
+      "name": "체스트 프레스 머신",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_034",
+      "name": "인클라인 체스트 프레스 머신",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_035",
+      "name": "디클라인 체스트 프레스 머신",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_036",
+      "name": "펙덱 플라이",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_037",
+      "name": "어시스트 딥스 머신",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_038",
+      "name": "아이소레터럴 체스트 프레스",
+      "muscle": "가슴",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_039",
+      "name": "케이블 플라이",
+      "muscle": "가슴",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_040",
+      "name": "로우 투 하이 케이블 플라이",
+      "muscle": "가슴",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_041",
+      "name": "하이 투 로우 케이블 플라이",
+      "muscle": "가슴",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_042",
+      "name": "싱글암 케이블 프레스",
+      "muscle": "가슴",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_043",
+      "name": "바벨 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_044",
+      "name": "인클라인 바벨 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_045",
+      "name": "디클라인 바벨 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_046",
+      "name": "클로즈그립 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_047",
+      "name": "덤벨 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_048",
+      "name": "인클라인 덤벨 프레스",
+      "muscle": "가슴",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_049",
+      "name": "덤벨 플라이",
+      "muscle": "가슴",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_050",
+      "name": "인클라인 덤벨 플라이",
+      "muscle": "가슴",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_051",
+      "name": "덤벨 스퀴즈 프레스",
+      "muscle": "가슴",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_052",
+      "name": "스미스 벤치 프레스",
+      "muscle": "가슴",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_053",
+      "name": "스미스 인클라인 프레스",
+      "muscle": "가슴",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_054",
+      "name": "푸시업",
+      "muscle": "가슴",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_055",
+      "name": "인클라인 푸시업",
+      "muscle": "가슴",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_056",
+      "name": "디클라인 푸시업",
+      "muscle": "가슴",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_057",
+      "name": "딥스",
+      "muscle": "가슴",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_058",
+      "name": "숄더 프레스 머신",
+      "muscle": "어깨",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_059",
+      "name": "레터럴 레이즈 머신",
+      "muscle": "어깨",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_060",
+      "name": "리버스 펙덱 머신",
+      "muscle": "어깨",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_061",
+      "name": "케이블 레터럴 레이즈",
+      "muscle": "어깨",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_062",
+      "name": "케이블 프론트 레이즈",
+      "muscle": "어깨",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_063",
+      "name": "케이블 리어 델트 플라이",
+      "muscle": "어깨",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_064",
+      "name": "케이블 업라이트 로우",
+      "muscle": "어깨",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_065",
+      "name": "케이블 페이스 풀",
+      "muscle": "어깨",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_066",
+      "name": "바벨 오버헤드 프레스",
+      "muscle": "어깨",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_067",
+      "name": "바벨 업라이트 로우",
+      "muscle": "어깨",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_068",
+      "name": "바벨 푸시 프레스",
+      "muscle": "어깨",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_069",
+      "name": "덤벨 숄더 프레스",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_070",
+      "name": "덤벨 레터럴 레이즈",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_071",
+      "name": "덤벨 프론트 레이즈",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_072",
+      "name": "덤벨 리어 레이즈",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_073",
+      "name": "아놀드 프레스",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_074",
+      "name": "덤벨 슈러그",
+      "muscle": "어깨",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_075",
+      "name": "스미스 숄더 프레스",
+      "muscle": "어깨",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_076",
+      "name": "스미스 업라이트 로우",
+      "muscle": "어깨",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_077",
+      "name": "밴드 레터럴 레이즈",
+      "muscle": "어깨",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_078",
+      "name": "밴드 페이스 풀",
+      "muscle": "어깨",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_079",
+      "name": "레그 프레스",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_080",
+      "name": "핵 스쿼트 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_081",
+      "name": "레그 익스텐션",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_082",
+      "name": "라잉 레그 컬",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_083",
+      "name": "시티드 레그 컬",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_084",
+      "name": "힙 어브덕션 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_085",
+      "name": "힙 어덕션 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_086",
+      "name": "힙 쓰러스트 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_087",
+      "name": "글루트 킥백 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_088",
+      "name": "카프 레이즈 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_089",
+      "name": "벨트 스쿼트 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_090",
+      "name": "브이 스쿼트 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_091",
+      "name": "스탠딩 카프 레이즈 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_092",
+      "name": "글루트 드라이브 머신",
+      "muscle": "하체",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_093",
+      "name": "바벨 백 스쿼트",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_094",
+      "name": "바벨 프론트 스쿼트",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_095",
+      "name": "바벨 루마니안 데드리프트",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_096",
+      "name": "스모 데드리프트",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_097",
+      "name": "바벨 힙 쓰러스트",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_098",
+      "name": "바벨 굿모닝",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_099",
+      "name": "바벨 런지",
+      "muscle": "하체",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_100",
+      "name": "덤벨 고블릿 스쿼트",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_101",
+      "name": "덤벨 런지",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_102",
+      "name": "덤벨 불가리안 스플릿 스쿼트",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_103",
+      "name": "덤벨 루마니안 데드리프트",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_104",
+      "name": "덤벨 스텝업",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_105",
+      "name": "덤벨 카프 레이즈",
+      "muscle": "하체",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_106",
+      "name": "스미스 스쿼트",
+      "muscle": "하체",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_107",
+      "name": "스미스 런지",
+      "muscle": "하체",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_108",
+      "name": "스미스 루마니안 데드리프트",
+      "muscle": "하체",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_109",
+      "name": "스미스 카프 레이즈",
+      "muscle": "하체",
+      "equipment": "스미스",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_110",
+      "name": "맨몸 스쿼트",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_111",
+      "name": "리버스 런지",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_112",
+      "name": "워킹 런지",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_113",
+      "name": "스텝업",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_114",
+      "name": "글루트 브릿지",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_115",
+      "name": "싱글레그 카프 레이즈",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_116",
+      "name": "월싯",
+      "muscle": "하체",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_117",
+      "name": "케이블 풀스루",
+      "muscle": "하체",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_118",
+      "name": "케이블 킥백",
+      "muscle": "하체",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_119",
+      "name": "케이블 힙 어브덕션",
+      "muscle": "하체",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_120",
+      "name": "프리처 컬 머신",
+      "muscle": "이두",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_121",
+      "name": "바이셉스 컬 머신",
+      "muscle": "이두",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_122",
+      "name": "케이블 바이셉스 컬",
+      "muscle": "이두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_123",
+      "name": "케이블 해머 컬",
+      "muscle": "이두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_124",
+      "name": "케이블 프리처 컬",
+      "muscle": "이두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_125",
+      "name": "하이 케이블 컬",
+      "muscle": "이두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_126",
+      "name": "바벨 컬",
+      "muscle": "이두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_127",
+      "name": "이지바 컬",
+      "muscle": "이두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_128",
+      "name": "리버스 바벨 컬",
+      "muscle": "이두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_129",
+      "name": "프리처 이지바 컬",
+      "muscle": "이두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_130",
+      "name": "덤벨 컬",
+      "muscle": "이두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_131",
+      "name": "덤벨 해머 컬",
+      "muscle": "이두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_132",
+      "name": "인클라인 덤벨 컬",
+      "muscle": "이두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_133",
+      "name": "컨센트레이션 컬",
+      "muscle": "이두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_134",
+      "name": "덤벨 리버스 컬",
+      "muscle": "이두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_135",
+      "name": "트라이셉스 익스텐션 머신",
+      "muscle": "삼두",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_136",
+      "name": "어시스트 딥스 머신",
+      "muscle": "삼두",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_137",
+      "name": "로프 푸시다운",
+      "muscle": "삼두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_138",
+      "name": "스트레이트바 푸시다운",
+      "muscle": "삼두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_139",
+      "name": "케이블 오버헤드 익스텐션",
+      "muscle": "삼두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_140",
+      "name": "원암 케이블 익스텐션",
+      "muscle": "삼두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_141",
+      "name": "리버스그립 푸시다운",
+      "muscle": "삼두",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_142",
+      "name": "이지바 스컬크러셔",
+      "muscle": "삼두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_143",
+      "name": "클로즈그립 벤치 프레스",
+      "muscle": "삼두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_144",
+      "name": "바벨 프렌치 프레스",
+      "muscle": "삼두",
+      "equipment": "바벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_145",
+      "name": "덤벨 오버헤드 익스텐션",
+      "muscle": "삼두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_146",
+      "name": "덤벨 킥백",
+      "muscle": "삼두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_147",
+      "name": "라잉 덤벨 트라이셉스 익스텐션",
+      "muscle": "삼두",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_148",
+      "name": "벤치 딥스",
+      "muscle": "삼두",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_149",
+      "name": "클로즈그립 푸시업",
+      "muscle": "삼두",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_150",
+      "name": "복근 크런치 머신",
+      "muscle": "복근",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_151",
+      "name": "토르소 로테이션 머신",
+      "muscle": "복근",
+      "equipment": "머신",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_152",
+      "name": "케이블 크런치",
+      "muscle": "복근",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_153",
+      "name": "케이블 우드초퍼",
+      "muscle": "복근",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_154",
+      "name": "팔로프 프레스",
+      "muscle": "복근",
+      "equipment": "케이블",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_155",
+      "name": "플랭크",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_156",
+      "name": "사이드 플랭크",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_157",
+      "name": "리버스 크런치",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_158",
+      "name": "레그 레이즈",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_159",
+      "name": "행잉 니 레이즈",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_160",
+      "name": "데드버그",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_161",
+      "name": "버드독",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_162",
+      "name": "바이시클 크런치",
+      "muscle": "복근",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_163",
+      "name": "덤벨 사이드 벤드",
+      "muscle": "복근",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_164",
+      "name": "웨이티드 싯업",
+      "muscle": "복근",
+      "equipment": "덤벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_165",
+      "name": "버피",
+      "muscle": "기타",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_166",
+      "name": "점핑잭",
+      "muscle": "기타",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_167",
+      "name": "마운틴 클라이머",
+      "muscle": "기타",
+      "equipment": "맨몸",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_168",
+      "name": "케틀벨 스윙",
+      "muscle": "기타",
+      "equipment": "케틀벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_169",
+      "name": "케틀벨 고블릿 스쿼트",
+      "muscle": "기타",
+      "equipment": "케틀벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_170",
+      "name": "케틀벨 데드리프트",
+      "muscle": "기타",
+      "equipment": "케틀벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_171",
+      "name": "케틀벨 프레스",
+      "muscle": "기타",
+      "equipment": "케틀벨",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_172",
+      "name": "밴드 로우",
+      "muscle": "기타",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_173",
+      "name": "밴드 풀어파트",
+      "muscle": "기타",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_174",
+      "name": "밴드 스쿼트",
+      "muscle": "기타",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_175",
+      "name": "밴드 컬",
+      "muscle": "기타",
+      "equipment": "밴드",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_176",
+      "name": "러닝머신 걷기",
+      "muscle": "기타",
+      "equipment": "기타",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_177",
+      "name": "스텝밀",
+      "muscle": "기타",
+      "equipment": "기타",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_178",
+      "name": "고정식 자전거",
+      "muscle": "기타",
+      "equipment": "기타",
+      "sets": 3,
+      "reps": "8–12"
+    },
+    {
+      "id": "catalog_179",
+      "name": "일립티컬",
+      "muscle": "기타",
+      "equipment": "기타",
+      "sets": 3,
+      "reps": "8–12"
+    }
+  ]
+}
